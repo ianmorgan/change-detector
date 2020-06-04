@@ -1,0 +1,8 @@
+
+components:
+  componentA:
+    path: componentA
+  BBB:
+    path: componentB
+  componentC:
+    path: componentC
